@@ -827,8 +827,12 @@ const csvData = `1,T. Hernandez,0.368,0.753,0.267,0.241,0.796,0.795,0.865
 
 const dataArray = csvData.split('\n').map(line => line.split(','));
 
+function removeSpecialChars(str) {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 function search(query) {
-  const results = dataArray.filter(data => data[1].toLowerCase().includes(query.toLowerCase()));  
+  const results = dataArray.filter(data => removeSpecialChars(data[1].toLowerCase()).includes(removeSpecialChars(query.toLowerCase())));  
   return results.length > 0 ? results[0] : null;
 }
 
