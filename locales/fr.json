@@ -16,8 +16,8 @@
       "progPasses": "Passes prog.",
       "defActions": "Actions déf.",
       "defDuel": "Duel déf%",
-      "aerial": "Aérien%",
-      "progCarries": "Portées prog.",
+      "aerial": "Duel aérien%",
+      "progCarries": "Courses prog.",
       "minutes": "Minutes jouées"
     },
     "radar": {
@@ -27,7 +27,7 @@
       "progPasses": "Passes prog",
       "xAssist": "xAssist",
       "cross": "Centre%",
-      "carrying": "Portée"
+      "carrying": "Courses"
     },
     "buttons": {
         "team": "Équipe"
