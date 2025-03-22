@@ -1,0 +1,42 @@
+{
+    "header": {
+        "home": "Accueil",
+        "pro": "Pro",
+        "guide": "Guide"
+      },
+      "search": {
+        "placeholder": "Chercher une équipe ou joueur...",
+        "placeholder2": "Chercher un latéral..."
+    },
+    "table": {
+      "percentiles": "Centiles",
+      "age": "Âge",
+      "cross": "% Centres",
+      "xa": "xA",
+      "progPasses": "Passes prog",
+      "defActions": "Actions déf",
+      "defDuel": "% Duel déf",
+      "aerial": "% Duel aérien",
+      "progCarries": "Courses prog",
+      "minutes": "Minutes jouées"
+    },
+    "radar": {
+      "aerial": "% Aérien",
+      "duel": "% Duels",
+      "defActions": "Actions Déf",
+      "progPasses": "Passes Prog",
+      "xAssist": "xAssist",
+      "cross": "% Centres",
+      "carrying": "Courses"
+    },
+    "buttons": {
+        "team": "Équipe"
+      },
+    "similar": {
+      "to": "Données similaires à"
+    },    
+    "meta": {
+        "title": "DataMB | Comparer les latéraux",
+        "description": "Comparez les statistiques des latéraux dans les 7 meilleures ligues. Visualisez la performance des joueurs. Trouvez des profils similaires."
+      }
+    } 
