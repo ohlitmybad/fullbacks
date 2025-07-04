@@ -11,22 +11,22 @@
   "table": {
     "percentiles": "Percentiles",
     "age": "Age",
-    "cross": "Cross%",
+    "cross": "Crosses cmp",
     "xa": "xA",
-    "progPasses": "Prog. passes",
-    "defActions": "Def. actions",
-    "defDuel": "Def. duel%",
-    "aerial": "Aerial%",
-    "progCarries": "Prog. carries",
-    "minutes": "Minutes played"
+    "progPasses": "Prog passes",
+    "possWon": "Poss won",
+    "defDuel": "Def duel%",
+    "aerial": "Aerial duel%",
+    "progCarries": "Prog carries",
+    "minutes": "Minutes"
   },
   "radar": {
     "aerial": "Aerial%",
-    "duel": "Duel%",
-    "defActions": "Def Actions",
-    "progPasses": "Prog Passes",
+    "duel": "Def duel%",
+    "possWon": "Poss won",
+    "progPasses": "Prog passes",
     "xAssist": "xAssist",
-    "cross": "Cross%",
+    "cross": "Crosses",
     "carrying": "Carrying"
   },
   "buttons": {
@@ -37,7 +37,7 @@
   },
   "meta": {
     "title": "DataMB | Compare Fullbacks",
-    "description": "Compare fullback and wing-back statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare duels; aerial duels; interceptions; tackles; xA; crossing accuracy; progressive passes; progressive runs and more for fullbacks and wing-backs in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+    "description": "Compare fullback and wing-back statistics in the Top 7 Leagues. Visualize player performance. Find similar profiles. Use our radar tool to compare duel wins rate; aerial duels; interceptions; tackles; possessions won; expected assists; crosses completed; progressive passes; progressive runs and more for fullbacks and wing-backs in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
   },
   "positions": {
     "goalkeeper": "Goalkeeper",
@@ -46,5 +46,11 @@
     "midfielder": "Midfielder",
     "winger": "Winger",
     "striker": "Striker"
+  },
+  "footer": {
+    "rights": "© All Rights Reserved",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "about": "About"
   }
-} 
+}
