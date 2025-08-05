@@ -14,7 +14,7 @@
     "cross": "Centros cmp",
     "xa": "xA",
     "progPasses": "Pases prog",
-    "possWon": "Posesión ganada",
+    "possWon": "Pos ganada",
     "defDuel": "Duelo def%",
     "aerial": "Duelo aéreo%",
     "progCarries": "Carreras prog",
@@ -23,7 +23,7 @@
   "radar": {
     "aerial": "Aéreo%",
     "duel": "Duelo def%",
-    "possWon": "Posesión ganada",
+    "possWon": "Pos ganada",
     "progPasses": "Pases prog",
     "xAssist": "xAsistencia",
     "cross": "Centros",
