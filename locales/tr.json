@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Ana Sayfa",
+    "pro": "Pro",
+    "guide": "Rehber"
+  },
+  "search": {
+    "placeholder": "Takım veya oyuncu adı girin...",
+    "placeholder2": "Bek adı girin..."
+  },
+  "table": {
+    "percentiles": "Yüzdelikler",
+    "age": "Yaş",
+    "cross": "Orta tamamla",
+    "xa": "xA",
+    "progPasses": "Hücum pası",
+    "possWon": "Top kazanma",
+    "defDuel": "Savunma düello%",
+    "aerial": "Hava düello%",
+    "progCarries": "Topu ileri taşıma",
+    "minutes": "Dakika"
+  },
+  "radar": {
+    "aerial": "Hava%",
+    "duel": "Savunma düello%",
+    "possWon": "Top kazanma",
+    "progPasses": "Hücum pası",
+    "xAssist": "xAsist",
+    "cross": "Ortalar",
+    "carrying": "Taşıma"
+  },
+  "buttons": {
+    "team": "Takım"
+  },
+  "similar": {
+    "to": "Benzer veri"
+  },
+  "meta": {
+    "title": "DataMB | Bekleri Karşılaştır",
+    "description": "En İyi 7 Ligdeki bek ve kanat bek istatistiklerini karşılaştırın. Oyuncu performansını görselleştirin. Benzer profiller bulun. Premier Lig, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga'daki bekler ve kanat bekler için düello kazanma oranını; hava düellolarını; müdahaleleri; kazanılan topları; beklenen asistleri; tamamlanan ortaları; hücum paslarını; topu ileri taşıma sayılarını ve daha fazlasını karşılaştırmak için radar aracımızı kullanın."
+  },
+  "positions": {
+    "goalkeeper": "Kaleci",
+    "centreback": "Stoper",
+    "fullback": "Bek",
+    "midfielder": "Orta saha",
+    "winger": "Kanat",
+    "striker": "Forvet"
+  },
+  "footer": {
+    "rights": "© Tüm Hakları Saklıdır",
+    "privacy": "Gizlilik",
+    "contact": "İletişim",
+    "about": "Hakkında"
+  }
+} 
