@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Inicio",
+    "pro": "Pro",
+    "guide": "Guía"
+  },
+  "search": {
+    "placeholder": "Introduce un nombre de equipo o jugador...",
+    "placeholder2": "Introduce nombre de lateral..."
+  },
+  "table": {
+    "percentiles": "Percentiles",
+    "age": "Edad",
+    "cross": "Centros cmp",
+    "xa": "xA",
+    "progPasses": "Pases prog",
+    "possWon": "Pos ganada",
+    "defDuel": "Duelo def%",
+    "aerial": "Duelo aéreo%",
+    "progCarries": "Carreras prog",
+    "minutes": "Minutos"
+  },
+  "radar": {
+    "aerial": "Aéreo%",
+    "duel": "Duelo def%",
+    "possWon": "Pos ganada",
+    "progPasses": "Pases prog",
+    "xAssist": "xAsistencia",
+    "cross": "Centros",
+    "carrying": "Conducción"
+  },
+  "buttons": {
+    "team": "Equipo"
+  },
+  "similar": {
+    "to": "Datos similares a"
+  },
+  "meta": {
+    "title": "DataMB | Comparar Laterales",
+    "description": "Compara estadísticas de laterales y carrileros en las 7 Principales Ligas. Visualiza el rendimiento de jugadores. Encuentra perfiles similares. Usa nuestra herramienta de radar para comparar tasa de victoria en duelos; duelos aéreos; intercepciones; entradas; posesiones ganadas; asistencias esperadas; centros completados; pases progresivos; carreras progresivas y más para laterales y carrileros en Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Primeira Liga."
+  },
+  "positions": {
+    "goalkeeper": "Portero",
+    "centreback": "Central",
+    "fullback": "Lateral",
+    "midfielder": "Centrocampista",
+    "winger": "Extremo",
+    "striker": "Delantero"
+  },
+  "footer": {
+    "rights": "© Todos los derechos reservados",
+    "privacy": "Privacidad",
+    "contact": "Contacto",
+    "about": "Acerca de"
+  }
+} 
