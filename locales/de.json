@@ -1,0 +1,56 @@
+{
+  "header": {
+    "home": "Startseite",
+    "pro": "Pro",
+    "guide": "Anleitung"
+  },
+  "search": {
+    "placeholder": "Team- oder Spielername eingeben...",
+    "placeholder2": "Name des Außenverteidigers eingeben..."
+  },
+  "table": {
+    "percentiles": "Perzentile",
+    "age": "Alter",
+    "cross": "Flanken gesp.",
+    "xa": "xA",
+    "progPasses": "Prog. Pässe",
+    "possWon": "Balleroberungen",
+    "defDuel": "Def. Duelle%",
+    "aerial": "Kopfballduelle%",
+    "progCarries": "Prog. Läufe",
+    "minutes": "Minuten"
+  },
+  "radar": {
+    "aerial": "Kopfball%",
+    "duel": "Def. Duelle%",
+    "possWon": "Balleroberungen",
+    "progPasses": "Prog. Pässe",
+    "xAssist": "xAssist",
+    "cross": "Flanken",
+    "carrying": "Ballführung"
+  },
+  "buttons": {
+    "team": "Team"
+  },
+  "similar": {
+    "to": "Ähnliche Daten wie"
+  },
+  "meta": {
+    "title": "DataMB | Außenverteidiger vergleichen",
+    "description": "Vergleichen Sie Außenverteidiger- und Schienenspieler-Statistiken in den Top-7-Ligen. Visualisieren Sie Spielerleistungen. Finden Sie ähnliche Profile. Nutzen Sie unser Radar-Tool zum Vergleich von Zweikampfquoten, Kopfballduellen, Abfangen, Tacklings, Balleroberungen, erwarteten Assists, Flanken, progressiven Pässen, progressiven Läufen und mehr für Außenverteidiger in Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, Liga Portugal."
+  },
+  "positions": {
+    "goalkeeper": "Torwart",
+    "centreback": "Innenverteidiger",
+    "fullback": "Außenverteidiger",
+    "midfielder": "Mittelfeldspieler",
+    "winger": "Flügelspieler",
+    "striker": "Stürmer"
+  },
+  "footer": {
+    "rights": "© Alle Rechte vorbehalten",
+    "privacy": "Datenschutz",
+    "contact": "Kontakt",
+    "about": "Über uns"
+  }
+}
